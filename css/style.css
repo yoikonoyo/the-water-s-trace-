@@ -550,13 +550,14 @@ body.en .poem {
   max-width: 800px;           /* mainと同じ最大幅 */
   margin: 2.5em auto 3.5em auto; /* 上下余白＋中央寄せ */
   padding: 0 1rem;            /* 本文枠と同じパディング */
-  text-align: center;          /* 右寄せ */
+  text-align: right;          /* 右寄せ */
   font-size: 0.9em;
   color: #666;
   line-height: 1.7;
   font-style: italic;         /* 少し詩的に見せる */
   box-sizing: border-box;     /* パディング込みで幅を計算 */
 }
+
 
 
 
